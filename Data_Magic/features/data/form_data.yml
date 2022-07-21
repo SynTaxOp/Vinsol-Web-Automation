@@ -1,0 +1,11 @@
+Detail1:
+  name: ~full_name
+  batch: B1
+  address: ~street_address
+  skills: "Frontend"
+
+Detail2:
+  name: ~full_name
+  batch: B2
+  address: ~street_address
+  skills: "Frontend, Backend"
